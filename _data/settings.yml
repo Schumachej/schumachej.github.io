@@ -136,12 +136,12 @@ services:
 portfolio-home-items:
 
   - image : "assets/images/portfolio/item-1.jpeg"
-    url: "assets/installable/EditorXR-0.1.0.dmg"
+    url: "assets/installable/dmg2.png"
     label: "MacOS"
 
 
   - image : "assets/images/portfolio/item-2.jpeg"
-    url: "assets/installable/EditorXR Setup 0.1.0.exe"
+    url: "assets/installable/dmg1.png"
     label: "Windows"
 
   - image : "assets/images/portfolio/item-3.jpeg"
