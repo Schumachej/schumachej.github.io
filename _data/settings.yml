@@ -136,7 +136,7 @@ services:
 portfolio-home-items:
 
   - image : "assets/images/portfolio/item-1.jpeg"
-    url: "assets/installable/1GB.bin"
+    url: "assets/installable/200mb.bin"
     label: "MacOS"
 
 
