@@ -53,7 +53,7 @@ social:
 blurb:
   RadiPOP - Radiomics for Portal Hypertension Outcome Prediction.
   A Computer-implemented method for semi-automatic segmentation of medical imaging data.
-  EditorXR is a image editing software to segment CT slices.
+  EditorXR is an image editing software to segment CT slices.
 
 img-place: "assets/images/preview.png"
 
