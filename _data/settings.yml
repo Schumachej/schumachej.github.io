@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Editor XR
+title: EditorXR
 logo:
 author: MencheLab
 description: this is meta description
@@ -111,19 +111,19 @@ services-title: Features
 services:
 - {
     name: DCM2PNG,
-    icon: ti-palette,
+    icon: ti-vector,
     description: 'Convert your .dicon files to .png files and select the clipping values.',
     active: # Add true to select section
   }
 - {
     name: Segmentation,
-    icon: ti-vector,
+    icon: ti-panel,
     description: 'Fast and efficient segmentation with sliders. Set your thresholds globally.',
     active: true # Add true to select section
   }
 - {
     name: Labeling,
-    icon: ti-panel,
+    icon: ti-palette,
     description: 'Label and adjust your masks. Extend the labels to other slices.',
     active: # Add true to select section
   }
