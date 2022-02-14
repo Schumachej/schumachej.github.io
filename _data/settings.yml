@@ -1,0 +1,156 @@
+#-------------------------------
+# General Site Settings
+
+title: Editor XR
+logo:
+author: MencheLab
+description: this is meta description
+email: office@maxperutzlabs.ac.at
+phone: +43 1 4277 - 2400 1
+address: Vienna BioCenter, Dr.-Bohr-Gasse 9, 1030 Vienna, Austria
+
+menu:
+- {name: Features, link: '/features'}
+- {name: Tutorial, link: '/tutorial'}
+- {name: Download, link: '/download'}
+- {name: About, link: '/about'}
+- {name: Git, link: '/git'}
+- {name: Contact, link: '/contact'}
+
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+google-analytics: # UA-XXXXXX-X
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: RadiPOP
+
+social:
+- {icon: "ti-twitter", link: "https://twitter.com/menchelab"}
+
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+
+blurb:
+  RadiPOP - Radiomics for Portal Hypertension Outcome Prediction.
+  A Computer-implemented method for semi-automatic segmentation of medical imaging data.
+  EditorXR is a image editing software to segment CT slices.
+
+
+
+# Client
+client-slider-items:
+  - logo: "assets/images/clients-logo/client-logo-1.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-2.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-3.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-2.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-1.png"
+    url: "#"
+
+  - logo: "assets/images/clients-logo/client-logo-3.png"
+    url: "#"
+
+
+# My Team Section
+team:
+  - title : "Jörg Menche"
+    image : "assets/images/team/member-1.png"
+    designation : "Project Manager"
+
+  - title : "Martina Scharitzer"
+    image : "assets/images/team/member-2.png"
+    designation : "Radiologist"
+
+  - title : "Celine Sin"
+    image : "assets/images/team/member-2.png"
+    designation : "Projekt Manager & Developer"
+
+  - title : "Jen Iofinova"
+    image : "assets/images/team/member-2.png"
+    designation : "Developer"
+
+  - title : "Lorenz Perschy"
+    image : "assets/images/team/member-3.png"
+    designation : "Developer"
+
+  - title : "Jonas Schumacher"
+    image : "assets/images/team/member-3.png"
+    designation : "Developer"
+
+
+# Feature Section
+
+services-title: Features
+services:
+- {
+    name: DCM2PNG,
+    icon: ti-palette,
+    description: 'Convert your .dicon files to .png files and select the clipping values.',
+    active: # Add true to select section
+  }
+- {
+    name: Segmentation,
+    icon: ti-vector,
+    description: 'Fast and efficient segmentation with sliders. Set your thresholds globally.',
+    active: true # Add true to select section
+  }
+- {
+    name: Labeling,
+    icon: ti-panel,
+    description: 'Label and adjust your masks. Extend the labels to other slices.',
+    active: # Add true to select section
+  }
+
+
+#-------------------------------
+# Portfolio (Section and Page)
+
+# Portfolio Home Section
+portfolio-home-items:
+
+  - image : "assets/images/portfolio/item-1.jpeg"
+    url: "assets/installable/EditorXR-0.1.0.dmg"
+    label: "MacOS"
+
+
+  - image : "assets/images/portfolio/item-2.jpeg"
+    url: "assets/installable/EditorXR Setup 0.1.0.exe"
+    label: "Windows"
+
+  - image : "assets/images/portfolio/item-3.jpeg"
+    url: "assets/images/portfolio/item-5.png"
+    label: "Linux"
+
+
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-email: steve.fruits@email.com
