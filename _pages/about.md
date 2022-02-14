@@ -2,7 +2,7 @@
 layout: about
 title: AboutUs.
 author: EditorXR
-image: assets/images/about/author.jpg
+image: assets/images/about/author.png
 
 ---
 
