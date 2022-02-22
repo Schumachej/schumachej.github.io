@@ -93,6 +93,14 @@ team:
     image : "assets/images/team/member-2.png"
     designation : "Projekt Manager & Developer"
 
+  - title : "Martin Watzenböck"
+    image : "assets/images/team/member-4.png"
+    designation : "Research"
+
+  - title : "Thomas Reiberger"
+    image : "assets/images/team/member-5.png"
+    designation : "Liver disease expert"
+
   - title : "Jen Iofinova"
     image : "assets/images/team/member-2.png"
     designation : "Developer"
@@ -105,6 +113,9 @@ team:
     image : "assets/images/team/member-3.png"
     designation : "Developer"
 
+  - title : "You"
+    image : "assets/images/team/member-3.png"
+    designation : "Developer"
 
 # Feature Section
 
